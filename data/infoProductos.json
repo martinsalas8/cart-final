@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Lenovo max delta",
+        "serie": "MD-22",
+        "type": "Gamer",
+        "price": "$2000"
+    },
+    {
+        "name": "HP ultra",
+        "serie": "ZT-86",
+        "type": "Enterprise",
+        "price": "$1800"
+    },
+    {
+        "name": "Asus Forza Euth",
+        "serie": "AE-71",
+        "type": "Tenier",
+        "price": "$500"
+    },
+    {
+        "name": "Acer Sup Lex",
+        "serie": "SL-74",
+        "type": "Gamer",
+        "price": "$1800"
+    },
+    {
+        "name": "Citroen C5s",
+        "serie": "ZT-86",
+        "type": "Gamer",
+        "price": "$8500"
+    },
+    {
+        "name": "Asus Tuf",
+        "serie": "T-800",
+        "type": "Gamer",
+        "price": "$2000"
+    },
+    {
+        "name": "Victur HP",
+        "serie": "T-900",
+        "type": "Gamer",
+        "price": "$2350"
+    }
+    
+]
+
+
